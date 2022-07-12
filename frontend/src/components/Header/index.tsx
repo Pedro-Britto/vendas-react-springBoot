@@ -1,0 +1,23 @@
+import logo from "../../assets/img/logo.svg";
+import "./styles.css";
+
+function Header() {
+  return (
+    <>
+      <header>
+        <div ClassName="dsmeta-logo-container">
+          <img src={logo} alt="DSMeta" />
+          <h1>DSMeta</h1>
+          <p>
+            Desenvolvido por
+            <a href="https://github.com/Pedro-Britto">
+              @Pedro Britto
+            </a>
+          </p>
+        </div>
+      </header>
+    </>
+  );
+}
+
+export default Header;
