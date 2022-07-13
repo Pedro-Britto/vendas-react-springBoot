@@ -5,7 +5,7 @@ function Header() {
   return (
     <>
       <header>
-        <div ClassName="dsmeta-logo-container">
+        <div className="dsmeta-logo-container">
           <img src={logo} alt="DSMeta" />
           <h1>DSMeta</h1>
           <p>
