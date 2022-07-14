@@ -1,0 +1,5 @@
+package com.pedrobritto.vendas.controllers;
+
+public class SaleController {
+
+}

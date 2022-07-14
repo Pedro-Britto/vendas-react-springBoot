@@ -72,7 +72,6 @@ INDEX VERSION 1.131+C:\Users\pedro\Documents\SpringBoot-NelioAlves\vendas-react-
 800517815.index
 258514837.index
 1798639574.index
-1965174767.index
 3636134008.index
 1865797976.index
 2036793248.index
