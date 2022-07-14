@@ -1,0 +1,5 @@
+package com.pedrobritto.vendas.entities;
+
+public class Sale {
+
+}
