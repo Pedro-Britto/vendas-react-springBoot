@@ -1,0 +1,5 @@
+package com.pedrobritto.vendas.services;
+
+public class SmsService {
+
+}
