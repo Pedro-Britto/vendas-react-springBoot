@@ -1,5 +1,0 @@
-package com.pedrobritto.vendas.config;
-
-public class SecurityConfig {
-
-}

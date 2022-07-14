@@ -1,5 +1,0 @@
-package com.pedrobritto.vendas.repositories;
-
-public interface SaleRepository {
-
-}
